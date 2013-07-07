@@ -1,0 +1,15 @@
+	Hola {firstname} {lastname},
+
+	Su cuenta de visitante ha sido cambiada a una cuenta de cliente:
+
+	E-mail: {email}
+	Contraseña: {passwd}
+
+
+	Puedes acceder con su cuenta a nuestro sitio web: {shop_url}
+
+	Por favor tenga cuidado al compartir estos datos de acceso con los demás.
+
+
+
+	{shop_url} desarrollado con PrestaShop™

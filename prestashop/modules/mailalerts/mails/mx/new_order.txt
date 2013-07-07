@@ -1,0 +1,29 @@
+Hola,
+
+Hay un nuevo pedido de {firstname} {lastname} ({email}) en {shop_name}.
+
+Pedido: {order_name}
+Creado en : {date}
+Paqueteria : {carrier}
+Método de pago: {payment}
+Descuento: {total_discounts}
+Gastos de envío: {total_shipping}
+Productos: {total_products}
+Envolver regalos: {total_wrapping}
+Total a pagar: {total_paid}
+
+Dirección de entrega:
+
+{delivery_block_txt}
+
+Dirección de facturación:
+
+{invoice_block_txt}
+
+Mensaje al cliente:
+
+{message}
+
+
+
+{shop_url} desarrolado con PrestaShop™

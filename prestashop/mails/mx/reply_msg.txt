@@ -1,0 +1,4 @@
+{reply}
+
+Por favor, no responda a este mensaje con tu correo electrónico, no recibiremos el mensaje.
+Con el fin de responder, utilice exclusivamente el siguiente enlace: {link}

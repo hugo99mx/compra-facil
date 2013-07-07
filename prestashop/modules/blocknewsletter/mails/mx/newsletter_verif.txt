@@ -1,0 +1,6 @@
+Hola,
+
+Gracias por suscribirte a nuestro newsletter, por favor confirma su petición haciendo clic en el siguiente enlace:
+{verif_url}
+
+{shop_url} desarrollado con PrestaShop™

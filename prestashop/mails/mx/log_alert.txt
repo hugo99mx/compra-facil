@@ -1,0 +1,11 @@
+Hola,
+		
+Nuevo registro de alerta
+	
+Por desgracia, un nuevo mensaje de alerta de registro se ha guardado.
+
+Puedes revisar esto en Back office > Herramientas > Registro en su sitio web.
+		
+{shop_name} - {shop_url}
+
+{shop_url} desarrollado con PrestaShop™

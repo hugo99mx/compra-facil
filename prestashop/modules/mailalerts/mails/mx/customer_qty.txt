@@ -1,0 +1,12 @@
+Hola,
+
+El Producto {product} Esta ahora disponible.
+Este producto esta otra vez en stock.
+
+Puedes entrar a la página del producto haciendo click en el siguiente enlace: {product_link}
+
+Puedes hacer el pedido desde nuestra tienda.
+
+
+
+{shop_url} desarrollado con PrestaShop™

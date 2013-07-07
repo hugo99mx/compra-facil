@@ -1,0 +1,9 @@
+Hola {firstname} {lastname},
+ 
+Usted es uno de nuestros mejores clientes y, como tal, queremos darle las gracias por su continuo apoyo.
+
+Como agradecimiento por su lealtad, ¡queremos darle un descuento de {amount}% válido en su próxima compra! Esta oferta es válida para {days} días, ¡así que no pierdas un momento!
+ 
+Aquí esta su cupón: {voucher_num}
+
+Introduce este código en su carrito de compras para obtener el descuento.

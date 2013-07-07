@@ -1,0 +1,11 @@
+Hola: {firstname} {lastname},
+
+El estado de tu devolución {id_order_return} a cambiado a "{state_order_return}".
+
+Puedes revisar este pedido de devolución en "Historial y detalles de tus pedidos" de tu cuenta pulsando sobre "Mi cuenta" en nuestro sitio web.
+
+{shop_name} - {shop_url}
+
+¡Gracias por comprar en {shop_name}!
+
+{shop_url} desarrollado con PrestaShop™

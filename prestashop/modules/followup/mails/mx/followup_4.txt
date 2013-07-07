@@ -1,0 +1,11 @@
+Te echamos de menos en {shop_name}
+
+Hola {firstname} {lastname},
+ 
+Usted es uno de nuestros mejores clientes, sin embargo no se ha realizado un pedido en {days_threshold} días.
+
+Queremos darle las gracias por la confianza que ha depositado en nosotros y ¡queremos darle un descuento de {amount}% válido en su próxima compra! Esta oferta es válida para {days} días, ¡así que no pierdas un momento!
+ 
+Aquí esta su upón: {voucher_num}
+
+Introduce este código en su carrito de compras para obtener el descuento.

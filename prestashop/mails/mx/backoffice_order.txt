@@ -1,0 +1,9 @@
+Hola {firstname} {lastname},
+
+Un nuevo comando ha sido generado para ti.
+
+Ir a {order_link} para finalizar el pago.
+
+{shop_name} - {shop_url}
+
+{shop_url} desarrollado con PrestaShop™

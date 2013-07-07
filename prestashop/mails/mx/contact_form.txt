@@ -1,0 +1,12 @@
+Su mensaje ha sido enviado con éxito a nuestro Servicio de Atención al Cliente.
+
+Su mensaje:
+
+{message}
+
+
+Le responderemos en cuanto nos sea posible.
+
+Regards,
+
+{shop_url} desarrollado con PrestaShop™

@@ -1,0 +1,14 @@
+Hola {firstname} {lastname},
+
+Esto es para informar acerca de la creación de un vale de descuento.
+
+Aquí esta el código de su vale de descuento : {voucher_num}.
+
+Basta con copiar / pegar este código durante el proceso de pago para su próximo pedido.
+
+Gracias por comprar en {shop_name}.
+
+{shop_name} - {shop_url}
+
+
+{shop_url} desarrollado por PrestaShop™
